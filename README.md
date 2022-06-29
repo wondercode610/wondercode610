@@ -4,7 +4,17 @@ Hi 👋 My name is Louis Auclair
 Software Engineer
 -----------------
 
-I’m Louis Auclair, a Software Engineer working with Django and React and a writer who enjoys building great quality products but also enjoys writing. You can find some of my works here and my content here.
+I'm a digital problem solver that uses my 10 years of experience in technical development and web solutions to find you the best way to solve your marketing challenges.
+
+I am passionate about web technology and producing incredible experiences which has led me to a become a web developer and consultant providing just that while standing out because of my attention to great and unique customer service.
+
+I believe that a website is more than just an information kiosk. It's a powerful representation of you and should take clients through a journey of discovery and provides the perfect landing point to make the most of marketing and advertising.
+
+I am able to go beyond building websites and help you identify how to solve your unique challenges, often even helping to find solutions beyond the task at hand.
+
+I'm incredibly friendly and love to understand clients through relationship. I'd love to see if we can work together and I'll probably be wearing a bowtie when we meet!
+
+If you need a hands-off solution, on time, on point and on budget, - give me a ping and you find right team member!
 
 *   🌍  I work remotely.
 *   ✉️  You can contact me at [wondercode610@gmail.com](mailto:wondercode610@gmail.com)
